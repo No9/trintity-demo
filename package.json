@@ -1,0 +1,19 @@
+{
+  "name": "trintity-demo",
+  "version": "1.0.0",
+  "description": "a demo",
+  "main": "module.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/No9/trintity-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/No9/trintity-demo/issues"
+  },
+  "homepage": "https://github.com/No9/trintity-demo"
+}
