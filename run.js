@@ -1,1 +1,2 @@
-console.log(42)
+var mod = require('./module')
+console.log(mod())
